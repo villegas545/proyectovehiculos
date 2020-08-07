@@ -1,0 +1,10 @@
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\bin\Debug\vehiculos.exe.config
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\bin\Debug\vehiculos.exe
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\bin\Debug\vehiculos.pdb
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\obj\Debug\vehiculos.csprojAssemblyReference.cache
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\obj\Debug\vehiculos.csproj.GenerateResource.cache
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\obj\Debug\vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\obj\Debug\vehiculos.exe
+C:\Users\Villegas\Documents\Visual Studio 2017\proyectos\vehiculos\vehiculos\obj\Debug\vehiculos.pdb
